@@ -1,0 +1,6 @@
+#sqli database
+*.sqlite3
+
+#media Files
+
+media/
